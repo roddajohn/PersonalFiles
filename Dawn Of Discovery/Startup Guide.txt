@@ -1,0 +1,23 @@
+3 Ships:
+  - Flagship (Wood, Tools, Fish)
+  - Small Trading Ship (Empty)
+  - Small Warship (Empty)
+
+First:
+  - Look for three islands
+    - One population island, big open spaces, close to other two, if possible, little to no fertilities
+    - One 'needs' island, for cider, fish, hemp, all peasant and citizen level goods, cider and hemp fertility necessary, big
+    - One 'raw goods' island, usually a small island with lots of iron and stone deposits, hopefully its in a central location
+  - Flagship goes to the population island (create warehouse)
+  - Get 20t tools and 40t wood from Northborough but on Small Trading Ship (20t tools, 40t wood)
+  - Send Small Trading Ship to the needs island
+  - Get letter for 50 honor from Lord Northborough, put on small warship
+  - Send Small Warship to the Grand Vizier
+  - Put on flagship enough for 5-6 lumberjack huts AND a warehouse, send to raw goods island
+  - Build warehouse and 5-6 lumberjack huts on the raw goods island
+  - On population island, build marketplace and as many houses as possible
+  - On 'needs' island, build 5-6 fisheries and 4 cider plantations
+  - Put small trading ship on a trade route to cart cider and fish from the 'needs' island to the population island
+  - Get ship you got from the grand vizier and the warship
+  - First, construct oriental warehouse on big island with a spice fertility (going to become the 'needs' island for the orient)
+ 
